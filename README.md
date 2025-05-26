@@ -6,7 +6,8 @@
 
 ## Tableau Dashboard Preview
 
-![Dashboard](https://github.com/user-attachments/assets/fd69092b-05b5-47c4-95af-7cfee1e23fc6)
+![Dashboard](https://github.com/user-attachments/assets/81b5e010-e222-48c3-942b-545f214e5fa5)
+
 
 ## MySQL Queries for Validation 
 ```
